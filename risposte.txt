@@ -1,0 +1,25 @@
+1.cambia il testo nella pagina
+2.la grandezzza del testo cambia
+3.mettendolo sotto my other page appare sotto di essa nella pahgina con la stessa grandezzza
+4. ciò che è racchiuso da queste <> è un tag html c'è né sono di diverso tipo ad esempio <h1> ovvero heading che permette di scrivere all'interno di esse ciò che si vuole finché sia racchiuso tra <h1> e </h1> con una grandezza maggiore e viene utilizzata per mettere il titolo di una pagina
+5.h1 principalmente utilizzato per scriverci dentro i titoli mentre h2 per i sottotitoli
+6."p" invece viene utilizzato per scrivere testi standard
+7.a reindirizare alla altra pagina html tramite la scritta "My other page"
+8.contiene  <link rel="stylesheet" type="text/css" href="style.css">, h2, head e si capisce che è il suo codice perchè c'è un h2 che contiene "oh whaaa"
+9.utilizzand body {         sulla pagina css permette scrivendo <body> nella pagina di cambiare il colore dello sfondo di tutto il body in arancione
+    background: orange;
+}
+10.a collegare la pagina alla specifica pagina css permttendo di utilizzare i commandi all'interno di essa
+11.nel body background cambio orange in yellow
+12.ora solo ciò che è scritto in h2 ha il colore dello sfondo cambiato in giallo
+13.da script.js tramite console.log("hello!")
+14.ho sostituito "hello!" con "ciao" nel script.js
+15.no, per far comparire la scritta ciao sulla console di me.html devo aggiungere <script src="script.js"></script> nel head della pagina me.html
+16.fa comparire un alert quando apro la pagina con il messaggio scritto all'interno
+17.uno per far vedere il messaggio sulla console l'altro per far visuallizare il messaggio appena apri la pagina
+18.
+19.con <script src="script.js"></script> nel head della pagina
+20.per strutturare una pagina web
+21.controlla il desiign della pagina html
+22.per realizzare pagine web interrative
+
